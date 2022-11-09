@@ -8,7 +8,7 @@ import { switchMap, tap } from 'rxjs/operators';
   templateUrl: './por-region.component.html',
   styles: [
     `
-      button: {
+      button {
         margin-right: 5px;
       }
     `,
